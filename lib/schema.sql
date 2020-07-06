@@ -12,7 +12,7 @@ name TEXT
 
 CREATE TABLE authors (
 id INTEGER PRIMARY KEY, 
-name TEXT,
+name TEXT
 );
 
 -- CREATE TABLE books (
