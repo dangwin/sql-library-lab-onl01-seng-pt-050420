@@ -1,5 +1,7 @@
 CREATE TABLE series (
-id PRIMARY KEY 
+id INTEGER PRIMARY KEY 
+
+
 
 
 
