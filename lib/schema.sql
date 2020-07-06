@@ -1,1 +1,8 @@
-CREATE TABLE 
+CREATE TABLE series (
+
+
+
+
+
+
+)
